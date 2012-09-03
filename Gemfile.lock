@@ -74,4 +74,4 @@ PLATFORMS
 DEPENDENCIES
   pg
   rails (= 3.0.1)
-  sqlite3-ruby (= 1.2.5)
+  sqlite3-ruby
